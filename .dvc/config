@@ -1,0 +1,6 @@
+[core]
+    remote = data
+['remote "bikes"']
+    url = s3://dvcgitdata
+['remote "data"']
+    url = s3://dvcgitdata
